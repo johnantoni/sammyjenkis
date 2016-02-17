@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            SammyJenkis
+tagline:          'A Jekyll theme'
+description:      'Diary of a hacker, by <a href="https://twitter.com/johnantoni" target="_blank">@johnantoni</a>.'
+url:              http://sammyjenkis.com
+
+author:
+  name:           'John Griffiths'
+  url:            https://twitter.com/johnantoni
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/johnantoni/sammyjenkis
+
+gems: [jekyll-paginate]
