@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            SammyJenkis
+title:            SJ
 tagline:          'A Jekyll theme'
 description:      'Diary of a hacker, by <a href="https://twitter.com/johnantoni" target="_blank">@johnantoni</a>.'
 url:              http://sammyjenkis.com
